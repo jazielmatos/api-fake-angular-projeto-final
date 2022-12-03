@@ -7,6 +7,7 @@ const HomeController = require('../controller/homeController');
 router.get('/', HomeController.index);
 
 router.get('/clientes', clientesController.index);
+router.post('/clientes', clientesController.create);
 router.get('/produtos', clientesController.index);
 router.get('/pedidos', clientesController.index);
 
