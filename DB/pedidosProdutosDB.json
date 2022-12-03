@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "idPedido": 1,
+        "idProduto": 1,
+        "qtd" : 12,
+        "valorTotal": 350
+    },{
+        "id": 1,
+        "idPedido": 1,
+        "idProduto": 1,
+        "qtd" : 12,
+        "valorTotal": 350
+    },{
+        "id": 1,
+        "idPedido": 1,
+        "idProduto": 1,
+        "qtd" : 12,
+        "valorTotal": 350
+    },{
+        "id": 1,
+        "idPedido": 1,
+        "idProduto": 1,
+        "qtd" : 12,
+        "valorTotal": 350
+    }
+]
