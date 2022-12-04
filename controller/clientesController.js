@@ -11,6 +11,12 @@ module.exports = {
         if(!clienteDb) return res.status(404).send({mensagem: "Cliente não encontrado"})
         res.status(200).send(clienteDb)
     },
+    
+    mostraClientePorCPF: async (req, res, next) => {
+      let clienteDb = await Cliente.buscaPorCPF(req.params.id)
+      if(!clienteDb) return res.status(404).send({mensagem: "Cliente não encontrado"})
+      res.status(200).send(clienteDb)
+    } ,
 
 
     criarCliente: async (req, res, next) => {

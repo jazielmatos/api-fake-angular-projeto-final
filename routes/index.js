@@ -3,6 +3,7 @@ const clientesController = require('../controller/clientesController');
 const router = express.Router();
 const HomeController = require('../controller/homeController');
 const pedidosController = require('../controller/pedidosController');
+const pedidosProdutosController = require('../controller/pedidosProdutosController');
 const produtosController = require('../controller/produtosController');
 
 /* GET home page. */
@@ -12,6 +13,7 @@ router.get('/', HomeController.index);
 router.get('/clientes', clientesController.index); //get todos clientes
 router.post('/clientes', clientesController.criarCliente); //post cliente (cria cliente)
 router.get('/clientes/:id', clientesController.mostraClientePorID); //get cliente por id
+router.get('/clientesCPF/:id', clientesController.mostraClientePorCPF); //get cliente por id
 router.put('/clientes/:id', clientesController.editarCliente); //put para editar o cliente pelo id
 
 
@@ -27,5 +29,11 @@ router.get('/pedidos', pedidosController.index);
 router.post('/pedidos', pedidosController.criarPedido);
 router.get('/pedidos/:id', pedidosController.mostraPedidoPorID);
 router.put('/pedidos/:id', pedidosController.editarPedido);
+
+//PEDIDOS PRODUTOS
+router.get('/pedidosProdutos', pedidosProdutosController.index);
+router.post('/pedidosProdutos', pedidosProdutosController.criarPedidoProduto);
+router.get('/pedidosProdutos/:id', pedidosProdutosController.mostraPedidoProdutoPorID);
+router.put('/pedidosProdutos/:id', pedidosProdutosController.editarPedidoProduto);
 
 module.exports = router;

@@ -44,6 +44,18 @@ module.exports = class Cliente{
         return null
     }
 
+    static async buscaPorCPF(cpf){
+        const listaClientes = await this.lista()
+        for(let i=0; i<listaClientes.length; i++){
+            const clienteDb = listaClientes[i]
+            if(clienteDb.cpf.toString() === cpf.toString()){
+                return clienteDb
+            }
+        }
+
+        return null
+    }
+
     static async salvar(cliente){
         const listaClientes = await this.lista()
         let exist = false

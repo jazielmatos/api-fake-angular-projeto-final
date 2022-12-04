@@ -1,1 +1,4 @@
-[{"id":1,"cpfCliente":"teste1","valorTotal":360,"data":"02/10/2022"},{"id":2,"cpfCliente":"99977788866","valorTotal":360,"data":"02/10/2022"},{"id":3,"cpfCliente":"99977788866","valorTotal":360,"data":"02/10/2022"},{"id":4,"cpfCliente":"99977788866","valorTotal":360,"data":"02/10/2022"},{"id":5,"cpfCliente":"99977788866","valorTotal":360,"data":"02/10/2022"}]
+[
+    {"id": 1, "cpfCliente": "99988877766", "valorTotal": 250, "data":"02/10/2002"},
+    {"id": 2, "cpfCliente": "44455577766", "valorTotal": 500, "data":"05/02/2020"}
+]

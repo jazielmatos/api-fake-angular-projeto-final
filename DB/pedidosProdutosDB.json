@@ -1,27 +1,10 @@
 [
-    {
-        "id": 1,
-        "idPedido": 1,
-        "idProduto": 1,
-        "qtd" : 12,
-        "valorTotal": 350
-    },{
-        "id": 1,
-        "idPedido": 1,
-        "idProduto": 1,
-        "qtd" : 12,
-        "valorTotal": 350
-    },{
-        "id": 1,
-        "idPedido": 1,
-        "idProduto": 1,
-        "qtd" : 12,
-        "valorTotal": 350
-    },{
-        "id": 1,
-        "idPedido": 1,
-        "idProduto": 1,
-        "qtd" : 12,
-        "valorTotal": 350
-    }
-]
+{"id":1,"idPedido":1,"idProduto":3,"qtd":2,"valorTotal":123},
+{"id":2,"idPedido":1,"idProduto":1,"qtd":12,"valorTotal":350},
+{"id":3,"idPedido":2,"idProduto":4,"qtd":12,"valorTotal":350},
+{"id":4,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":350},
+{"id":5,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},
+{"id":6,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},
+{"id":7,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":52},
+{"id":8,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":36},
+{"id":9,"idPedido":1,"idProduto":4,"qtd":12,"valorTotal":89}]
