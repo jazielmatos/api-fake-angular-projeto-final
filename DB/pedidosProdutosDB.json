@@ -1,10 +1,1 @@
-[
-{"id":1,"idPedido":1,"idProduto":3,"qtd":2,"valorTotal":123},
-{"id":2,"idPedido":1,"idProduto":1,"qtd":12,"valorTotal":350},
-{"id":3,"idPedido":2,"idProduto":4,"qtd":12,"valorTotal":350},
-{"id":4,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":350},
-{"id":5,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},
-{"id":6,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},
-{"id":7,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":52},
-{"id":8,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":36},
-{"id":9,"idPedido":1,"idProduto":4,"qtd":12,"valorTotal":89}]
+[{"id":1,"idPedido":1,"idProduto":3,"qtd":2,"valorTotal":123},{"id":2,"idPedido":1,"idProduto":1,"qtd":12,"valorTotal":350},{"id":3,"idPedido":2,"idProduto":4,"qtd":12,"valorTotal":350},{"id":4,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":350},{"id":5,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},{"id":6,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":350},{"id":7,"idPedido":2,"idProduto":2,"qtd":12,"valorTotal":52},{"id":8,"idPedido":1,"idProduto":3,"qtd":12,"valorTotal":36},{"id":9,"idPedido":1,"idProduto":4,"qtd":12,"valorTotal":89},{"id":10,"idPedido":3,"idProduto":2,"qtd":3,"valorTotal":42},{"id":11,"idPedido":3,"idProduto":3,"qtd":2,"valorTotal":10},{"id":12,"idPedido":3,"idProduto":4,"qtd":58,"valorTotal":348},{"id":13,"idPedido":4,"idProduto":2,"qtd":3,"valorTotal":42},{"id":14,"idPedido":4,"idProduto":4,"qtd":5,"valorTotal":30},{"id":15,"idPedido":4,"idProduto":5,"qtd":5,"valorTotal":500},{"id":16,"idPedido":5,"idProduto":2,"qtd":20,"valorTotal":280},{"id":17,"idPedido":6,"idProduto":2,"qtd":3,"valorTotal":42},{"id":18,"idPedido":7,"idProduto":2,"qtd":3,"valorTotal":42},{"id":19,"idPedido":8,"idProduto":2,"qtd":3,"valorTotal":42},{"id":20,"idPedido":8,"idProduto":4,"qtd":5,"valorTotal":30},{"id":21,"idPedido":9,"idProduto":4,"qtd":5,"valorTotal":30},{"id":22,"idPedido":10,"idProduto":1,"qtd":12,"valorTotal":144},{"id":23,"idPedido":10,"idProduto":2,"qtd":12,"valorTotal":168},{"id":24,"idPedido":10,"idProduto":3,"qtd":2,"valorTotal":10},{"id":25,"idPedido":11,"idProduto":2,"qtd":3,"valorTotal":42},{"id":26,"idPedido":11,"idProduto":4,"qtd":3,"valorTotal":18},{"id":27,"idPedido":11,"idProduto":5,"qtd":3,"valorTotal":300},{"id":28,"idPedido":12,"idProduto":2,"qtd":5,"valorTotal":70},{"id":29,"idPedido":12,"idProduto":5,"qtd":5,"valorTotal":500}]

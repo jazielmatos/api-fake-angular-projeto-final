@@ -1,6 +1,1 @@
-[
-{"id":1,"nome":"Dipirona","desc":"Desc Dipirona","valor":12,"qtdEstoque":28},
-{"id":2,"nome":"Amoxilia","desc":"Desc Amoxilina","valor":14,"qtdEstoque":23},
-{"id":3,"nome":"DorFlex","desc":"Desc DorFlex","valor":5,"qtdEstoque":2},
-{"id":4,"nome":"Paracetamol","desc":"Desc Paracetamol","valor":6,"qtdEstoque":70},
-{"id":5,"nome":"Morfina","desc":"Desc Morfina","valor":100,"qtdEstoque":5}]
+[{"id":1,"nome":"Dipirona","desc":"Desc Dipirona","valor":12,"qtdEstoque":16},{"id":2,"nome":"Amoxilia","desc":"Desc Amoxilina","valor":14,"qtdEstoque":20},{"id":3,"nome":"DorFlex","desc":"Desc DorFlex","valor":5,"qtdEstoque":10},{"id":4,"nome":"Paracetamol","desc":"Desc Paracetamol","valor":6,"qtdEstoque":57},{"id":5,"nome":"Morfina","desc":"Desc Morfina","valor":100,"qtdEstoque":20}]

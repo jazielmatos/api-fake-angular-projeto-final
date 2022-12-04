@@ -1,4 +1,1 @@
-[
-    {"id": 1, "cpfCliente": "99988877766", "valorTotal": 250, "data":"02/10/2002"},
-    {"id": 2, "cpfCliente": "44455577766", "valorTotal": 500, "data":"05/02/2020"}
-]
+[{"id":1,"cpfCliente":"99988877766","valorTotal":250,"data":"02/10/2002"},{"id":2,"cpfCliente":"44455577766","valorTotal":500,"data":"05/02/2020"},{"id":3,"cpfCliente":"99988877766","valorTotal":400,"data":"04/12/2022"},{"id":4,"cpfCliente":"99988877766","valorTotal":572,"data":"04/12/2022"},{"id":5,"cpfCliente":"99988877766","valorTotal":520,"data":"04/12/2022"},{"id":6,"cpfCliente":"99988877766","valorTotal":60,"data":"04/12/2022"},{"id":7,"cpfCliente":"99988877766","valorTotal":72,"data":"04/12/2022"},{"id":8,"cpfCliente":"99988877766","valorTotal":72,"data":"04/12/2022"},{"id":9,"cpfCliente":"99988877766","valorTotal":30,"data":"04/12/2022"},{"id":10,"cpfCliente":"99988877766","valorTotal":322,"data":"04/12/2022"},{"id":11,"cpfCliente":"99988877766","valorTotal":360,"data":"04/12/2022"},{"id":12,"cpfCliente":"99988877766","valorTotal":570,"data":"04/12/2022"}]
